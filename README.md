@@ -1,4 +1,8 @@
-### Hi there 👋
+### ***Welcome to my Github profile!*** ###
+# I am a cogrammar student working on the fundamentals of data science, hoping to explore further into the world of coding and data.
+
+I have began this as a postgraduate from my chemistry degree, looking to expand my skills and break into a graduate role as a data scientist advancing from my time at university.
+
 
 <!--
 **Adambay241/Adambay241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
