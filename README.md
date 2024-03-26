@@ -6,7 +6,9 @@ I attended the University of Nottingham, graduating July 2023
 
 # I am Currently working on:
 -'While loops'
+
 -'If/else statements' 
+
 -'organising strings'
 
 
