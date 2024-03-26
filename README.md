@@ -3,7 +3,11 @@
 
 I have began this as a postgraduate from my chemistry degree, looking to expand my skills and break into a graduate role as a data scientist advancing from my time at university.
 I attended the University of Nottingham, graduating July 2023
-I'm currently working on loops with a focus on while loops!
+
+# I am Currently working on:
+-'While loops'
+-'If/else statements' 
+-'organising strings'
 
 
 
